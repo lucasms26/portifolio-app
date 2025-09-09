@@ -22,7 +22,7 @@ export default function contact() {
                 <a href="https://www.linkedin.com/in/lucas-martins-da-silva-653711217/" target="_blank" rel="noopener noreferrer">
                     <img src="icons8-linkedin-100.png" alt="linkedin" />
                 </a>
-                <a href="https://www.linkedin.com/in/lucas-martins-da-silva-653711217/" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/lucasms26" target="_blank" rel="noopener noreferrer">
                     <img src="github.png" alt="github" />
                 </a>
             </div>

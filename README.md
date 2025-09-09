@@ -39,7 +39,7 @@ npm, yarn, pnpm ou bun
 Passos
 Clone o repositório:
 
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+git clone [https://github.com/lucasms26/portifolio-app](https://github.com/lucasms26/portifolio-app)
 
 Acesse o diretório do projeto:
 
@@ -48,17 +48,17 @@ cd seu-repositorio
 Instale as dependências:
 
 npm install
-# ou
+ou
 yarn install
-# ou
+ou
 pnpm install
 
 Execute o servidor de desenvolvimento:
 
 npm run dev
-# ou
+ou
 yarn dev
-# ou
+ou
 pnpm dev
 
 Abra no navegador:
@@ -72,11 +72,11 @@ A maneira mais fácil de fazer o deploy da sua aplicação Next.js é usando a V
 Confira a documentação de deploy do Next.js para mais detalhes.
 
 📫 Contato
-[Seu Nome]
+Lucas Martins da Silva
 
-LinkedIn: https://linkedin.com/in/seu-usuario
+LinkedIn: https://www.linkedin.com/in/lucas-martins-da-silva-653711217/
 
-GitHub: https://github.com/seu-usuario
+GitHub: https://github.com/lucasms26
 
 Email: seu-email@exemplo.com
 
