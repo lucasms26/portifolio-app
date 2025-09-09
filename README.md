@@ -1,36 +1,83 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Meu Portfólio Pessoal
+Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi desenvolvido para apresentar minhas habilidades, experiências e os projetos nos quais trabalhei.
 
-## Getting Started
+🚀 Sobre o Projeto
+Este é um site moderno e responsivo construído com as mais recentes tecnologias web. O objetivo principal é criar um espaço centralizado para exibir meu trabalho e compartilhar um pouco sobre minha jornada como desenvolvedor(a).
 
-First, run the development server:
+✨ Funcionalidades
+Página Inicial: Uma introdução sobre mim e minhas principais competências.
 
-```bash
+Sobre Mim: Uma seção detalhada sobre minha trajetória, formação e interesses.
+
+Projetos: Uma galeria com os projetos mais relevantes que desenvolvi, com links para o código-fonte e demonstrações ao vivo.
+
+Contato: Um formulário para que recrutadores e colaboradores possam entrar em contato facilmente.
+
+Design Responsivo: Totalmente adaptado para uma ótima experiência em desktops, tablets e celulares.
+
+🛠️ Tecnologias Utilizadas
+Este projeto foi construído utilizando as seguintes tecnologias:
+
+Next.js: O framework React para produção.
+
+React: A biblioteca para construir interfaces de usuário.
+
+TypeScript: Para adicionar tipagem estática ao JavaScript.
+
+Tailwind CSS: Um framework CSS "utility-first" para estilização rápida e customizável.
+
+Geist: A fonte otimizada utilizada neste projeto.
+
+⚙️ Como Executar o Projeto Localmente
+Siga os passos abaixo para configurar e executar o projeto em seu ambiente de desenvolvimento.
+
+Pré-requisitos
+Node.js (versão 18.x ou superior)
+
+npm, yarn, pnpm ou bun
+
+Passos
+Clone o repositório:
+
+git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+
+Acesse o diretório do projeto:
+
+cd seu-repositorio
+
+Instale as dependências:
+
+npm install
+# ou
+yarn install
+# ou
+pnpm install
+
+Execute o servidor de desenvolvimento:
+
 npm run dev
-# or
+# ou
 yarn dev
-# or
+# ou
 pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abra no navegador:
+Acesse http://localhost:3000 em seu navegador para ver o resultado.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Você pode começar a editar a página principal modificando o arquivo app/page.tsx. A página será atualizada automaticamente conforme você edita o arquivo.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+🚀 Deploy
+A maneira mais fácil de fazer o deploy da sua aplicação Next.js é usando a Vercel Platform, dos criadores do Next.js.
 
-## Learn More
+Confira a documentação de deploy do Next.js para mais detalhes.
 
-To learn more about Next.js, take a look at the following resources:
+📫 Contato
+[Seu Nome]
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+LinkedIn: https://linkedin.com/in/seu-usuario
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+GitHub: https://github.com/seu-usuario
 
-## Deploy on Vercel
+Email: seu-email@exemplo.com
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Sinta-se à vontade para entrar em contato!
