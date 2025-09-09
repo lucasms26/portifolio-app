@@ -1,0 +1,48 @@
+.about-content-img {
+    width: 700px;
+    height: 600px;
+    padding: 30px;
+    padding-bottom: 0px;
+    padding-bottom: 40px;
+}
+
+.about-content-text {
+    width: 700px;
+    height: 1100px;
+    padding: 30px;
+    padding-bottom: 50px;
+
+}
+
+.about-content-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #A020F0;
+}
+
+.about-content-txt {
+    font-size: 20px;
+    color: #F5F5F5;
+}
+
+@media screen and (max-width: 768px) {
+    .about-content-img {
+        width: 400px;
+        height: 300px;
+    }
+
+    .about-content-text {
+        width: 400px;
+        height: 800px;
+        padding: 30px;
+    }
+
+    .about-content-title {
+        font-size: 15px;
+    }
+
+    .about-content-txt {
+        font-size: 13px;
+    }
+
+}

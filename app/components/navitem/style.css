@@ -1,0 +1,15 @@
+.nav-item {
+    .nav-link {
+        text-decoration: none;
+        font-size: 16px;
+        color: #D580FF;
+        padding: 4px 0px;
+        transition: color 0.3s;
+
+        &.active,
+        &:hover {
+            color: #00FFFF;
+            border-bottom: 2px solid #00FFFF;
+        }
+    }
+}

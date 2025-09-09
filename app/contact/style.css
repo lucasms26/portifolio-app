@@ -1,0 +1,32 @@
+.contects-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    gap: 30px;
+    height: auto;
+    padding-top: 100px;
+}
+.contact-content-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #A020F0;
+}
+
+.contact-content-txt {
+  font-size: 20px;
+  color: #F5F5F5;
+}
+
+.div-contacts {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 100px;
+    height: 150px;
+    padding: 30px;
+    color: #ffffff;
+}
